@@ -1,0 +1,33 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.h-full-i {
+    height: 100% !important;
+}
+
+.show-rundown {
+    opacity: 100% !important;
+    transform: translateX(0) !important;
+}
+
+.scale-100-i {
+    transform: scale(1) !important;
+}
+
+.opacity-100-i {
+    opacity: 100% !important;
+}
+
+.running-text {
+    animation: marquee 10s linear infinite;
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}

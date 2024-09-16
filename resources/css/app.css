@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter_18pt-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Montaga';
+    src: url('../fonts/Montaga-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Fraunces';
+    src: url('../fonts/Fraunces_9pt-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Griffiths';
+    src: url('../fonts/Griffiths.otf');
+}
+
+@font-face {
+    font-family: 'Candlescript';
+    src: url('../fonts/Candlescript Demo Version.otf');
+}
+
+@font-face {
+    font-family: 'Stretch';
+    src: url('../fonts/StretchPro.otf');
+}
+
+@font-face {
+    font-family: 'Grifter';
+    src: url('../fonts/GRIFTER Bold 700.otf');
+}
+

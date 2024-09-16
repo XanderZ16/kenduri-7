@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../build/assets/Montserrat-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../build/assets/Inter_18pt-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Montaga';
+    src: url('../build/assets/Montaga-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../build/assets/Raleway-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../build/assets/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Fraunces';
+    src: url('/build/assets/Fraunces_9pt-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Griffiths';
+    src: url('/build/assets/Griffiths.otf');
+}
+
+@font-face {
+    font-family: 'Candlescript';
+    src: url('/build/assets/Candlescript Demo Version.otf');
+}
+
+@font-face {
+    font-family: 'Stretch';
+    src: url('/build/assets/StretchPro.otf');
+}
+
+@font-face {
+    font-family: 'Grifter';
+    src: url('/build/assets/GRIFTER Bold 700.otf');
+}
